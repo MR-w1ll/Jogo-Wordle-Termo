@@ -1,0 +1,4 @@
+colorama==0.4.6
+Unidecode==1.4.0
+pygame==2.6.1
+gtts==2.5.4
